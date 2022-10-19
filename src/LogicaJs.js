@@ -10,7 +10,8 @@ function obtenerListaUsuarios() {
         [
             //id, nombre, apellido, correo, contraseña, fecha nac, rol
             ['1', 'Pabs', 'Monestel', 'pablo.monestel@gmail.com', '1pablo9', '1987-10-12', '1'],
-            ['2', 'Olman', 'Santamaria', 'olman@gmail.com', '1olman9', '1993-04-17', '2']
+            ['2', 'Olman', 'Santamaria', 'olman@gmail.com', '1olman9', '1993-04-17', '2'],
+            ['3', 'Andrea', 'stx', 'andrestx', 'stx2022', '1993-04-18', '1']
         ]
     }
     return ListaUsuarios 
